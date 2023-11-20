@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shakil Khan</h1>
 <h3 align="center">Study at CSE BGC Trust University, Bangladesh</h3>
-<h1 alter">Learn to try new thing. Still try to develop myself. I have dream to become a SOFTWARE ENGINEER.</h1>ign="cen
-<h4 alter">I Love to programming. Still practicing it.</h4>ign="cen
-<h4 alter">Start learning C, C++, Python, Java, JavaSript, Data structure & algorithm. But mainly focus on problem solving C++ & Python. Believe yourself Doing hard work. How much you can.</h4>ign="cen
+<h1 alter">Learn to try new thing. Still try to develop myself. I have dream to become a SOFTWARE ENGINEER.</h1>
+<h1 alter">I Love to programming. Still practicing it.</h1>
+<h4 alter">Start learning C, C++, Python, Java, JavaSript, Data structure & algorithm. But mainly focus on problem solving C++ & Python. Believe yourself Doing hard work. How much you can.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil-khan-compilererror&label=Profile%20views&color=0e75b6&style=flat" alt="shakil-khan-compilererror" /> </p>
 
