@@ -16,8 +16,6 @@
 
 - 🤝 I’m looking for help with **about Django**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
 - 💬 Ask me about **anything here! I am happy to help.**
 
 - 📫 How to reach me **shakilkhan116797@gmail.com**
