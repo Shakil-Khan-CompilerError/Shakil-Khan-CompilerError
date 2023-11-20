@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shakil Khan</h1>
 <h3 align="center">Study at CSE BGC Trust University, Bangladesh</h3>
+<h1 align="center">Learn to try new thing. Still try to develop myself. I have dream to become a SOFTWARE ENGINEER.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil-khan-compilererror&label=Profile%20views&color=0e75b6&style=flat" alt="shakil-khan-compilererror" /> </p>
 
