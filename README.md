@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakil Khan</h1>
+<h1 align="center">Hi Greetings👋, I'm Shakil Khan</h1>
 <h3 align="center">Study at CSE BGC Trust University, Bangladesh</h3>
 <h1 alter">Learn to try new thing. Still try to develop myself. I have dream to become a SOFTWARE ENGINEER.</h1>
 <h1 alter">I Love to programming. Still practicing it.</h1>
